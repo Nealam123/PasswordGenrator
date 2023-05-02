@@ -1,0 +1,3 @@
+fruit=input("What is your favouiate food?: ")
+print(f"your favouriate food is {fruit}  ")
+
